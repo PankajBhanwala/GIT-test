@@ -1,0 +1,3 @@
+import from 'github'
+
+func()()
